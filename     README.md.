@@ -1,0 +1,46 @@
+AWS S3 Static Website Hosting
+
+Project Overview
+
+This project demonstrates how to host a personal portfolio website using Amazon S3 static website hosting.
+
+The website is built using HTML and CSS and is accessible through the Amazon S3 website endpoint.
+
+Technologies Used
+
+* Amazon S3
+* HTML5
+* CSS3
+* GitHub
+
+Project Structure
+
+AWS-S3-Static-Hosting/
+├── index.html
+├── style.css
+├── README.md
+└── screenshots/
+
+Features
+
+* Personal portfolio introduction
+* Technical skills section
+* Project showcase
+* GitHub profile link
+* Responsive styling for mobile devices
+
+AWS Implementation
+
+1. Created an Amazon S3 bucket.
+2. Uploaded the HTML and CSS files.
+3. Enabled static website hosting.
+4. Configured the required access permissions.
+5. Tested the website using the S3 website endpoint.
+
+Live Website
+
+Add your Amazon S3 website endpoint here after deployment.
+
+Author
+
+Pavan Yadav C
